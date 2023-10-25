@@ -1,0 +1,2 @@
+# Texit_full
+Complete_useful_manual_dual_translation
