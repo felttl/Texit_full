@@ -1,0 +1,29 @@
+
+
+
+\documentclass{article}
+\usepackage[T1]{fontenc}
+
+\begin{document}
+/document/LaTeX
+
+énoncé : (priorité 16):
+\[
+   (1+X)^{a} \
+\]
+
+test de formule avec l'énoncé :
+\[
+   (1+X)^{a} = ... 
+\]
+
+test : 
+
+\[
+  y = mx + c
+\]
+
+
+
+
+\end{document}
